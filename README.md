@@ -11,9 +11,9 @@ Your team: group number 13
   - Student 1: Aya BENTOUMIA 'Ayabt1' 
   - Student 2: Aymane FAIQ  'AymaneFAIQ'
   
-  - Student 3: Hafsa DERKAOUI
+  - Student 3: Hafsa DERKAOUI 'Hafsatoun'
 
-  - Student 4: Abderrahman KOUTIT 
+  - Student 4: Abderrahman KOUTIT 'abderrahman2002'
 
 ## Getting Started
 
